@@ -105,7 +105,7 @@ transform: rotate(90deg);
   </div>
   <div class="rect2">
     <span class="timetxt"> <?php
-date_default_timezone_set("America/New_York");
+date_default_timezone_set("Africa/Lagos");
 echo date("h:i:s A");
 ?></span>
   </div>
